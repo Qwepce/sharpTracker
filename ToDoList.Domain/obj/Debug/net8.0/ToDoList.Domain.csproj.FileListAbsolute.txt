@@ -1,0 +1,12 @@
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.deps.json
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\bin\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfoInputs.cache
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.AssemblyInfo.cs
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.csproj.CoreCompileInputs.cache
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\refint\ToDoList.Domain.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ref\ToDoList.Domain.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.Domain\obj\Debug\net8.0\ToDoList.Domain.csproj.AssemblyReference.cache

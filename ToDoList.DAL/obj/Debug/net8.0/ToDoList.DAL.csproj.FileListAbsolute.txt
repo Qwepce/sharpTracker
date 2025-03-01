@@ -1,0 +1,15 @@
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.deps.json
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.DAL.pdb
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.Domain.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\bin\Debug\net8.0\ToDoList.Domain.pdb
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.csproj.AssemblyReference.cache
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.AssemblyInfoInputs.cache
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.AssemblyInfo.cs
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.csproj.CoreCompileInputs.cache
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.A2DAEE57.Up2Date
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\refint\ToDoList.DAL.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ToDoList.DAL.pdb
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList.DAL\obj\Debug\net8.0\ref\ToDoList.DAL.dll
