@@ -34,7 +34,7 @@ public class TaskController : Controller
 
         if (response.StatusCode == Domain.Enum.StatusCode.OK)
         {
-            return Ok(new { description = response.Description });
+            return StatusCode(StatusCodes.Status201Created, new { description = response.Description });
         }
         
         return BadRequest( new { description = response.Description });
