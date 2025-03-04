@@ -22,3 +22,5 @@
 - Легкость масштабирования приложения в будущем.
 
 ![](https://habrastorage.org/r/w1560/getpro/habr/upload_files/900/2b9/727/9002b9727fba0bcf68db8b9e797ead34.jpg)
+
+Test sliyaniya
