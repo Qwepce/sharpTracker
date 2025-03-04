@@ -410,3 +410,4 @@ C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.MvcAp
 C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.Service.dll
 C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList\bin\Debug\net8.0\ToDoList.Service.pdb
 C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList\bin\Debug\net8.0\CsvHelper.dll
+C:\Users\enjoyer\RiderProjects\ToDoList\ToDoList\obj\Debug\net8.0\ToDoList.sourcelink.json
