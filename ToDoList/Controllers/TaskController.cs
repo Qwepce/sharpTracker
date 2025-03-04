@@ -18,6 +18,7 @@ public class TaskController : Controller
     public IActionResult Index()
     {
         return View();
+        //
     }
 
     public async Task<IActionResult> GetCompletedTasks()
